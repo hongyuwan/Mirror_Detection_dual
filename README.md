@@ -1,1 +1,2 @@
 # Mirror_Detection_dual
+文件夹中infer.py为predict，运行该代码可对MSD文件中的test数据集进行镜子区域预测
