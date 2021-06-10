@@ -19,3 +19,17 @@ train_mirror_C.py为镜子分类子网络train
 train_dual.py为镜双任务子检测网络train
 
 validlabel.py用来验证标签正确性
+
+MSD数据集下载地址https://drive.google.com/file/d/1Znw92fO6lCKfXejjSSyMyL1qtFepgjPI/view?usp=sharing
+
+Pre-trained Model地址https://drive.google.com/file/d/1jCSk3VX7nypHbEcup6eTG4K7189irwIc/view?usp=sharing
+
+数据集引用来自
+
+@InProceedings{Yang_2019_ICCV,
+    author = {Yang, Xin and Mei, Haiyang and Xu, Ke and Wei, Xiaopeng and Yin, Baocai and Lau, Rynson W.H.},
+    title = {Where Is My Mirror?},
+    booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+    month = {October},
+    year = {2019}
+}
